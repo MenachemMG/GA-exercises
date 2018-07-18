@@ -1,15 +1,26 @@
 body {
 	background-color: #ffe;
+	width: 50%;
+	margin: auto;
+	font-family: Arial, sans-serif;
+}
 
+h1 {
+	text-align: center;
 }
 span {
 	color: #FFE;
 }
 a {
 	color: #900;
-
 }
 img {
 	border: 10px solid black;
 	border-top-color: white;
 }
+.information {
+	display: inline-block;
+	width: 90%;
+	margin: auto;
+}
+

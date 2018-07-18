@@ -1,0 +1,29 @@
+p {
+	font-size: 26px;
+	
+}
+ul {
+	font-size: 26px;
+}
+body {
+	font-family: Arial, sans-serif;
+	margin: 0 auto;
+	padding: 0 50px;
+	background-color: yellow;
+	text-align: justify;
+	border: 10px dashed red;
+}
+a {
+	text-decoration: none;
+}
+.australia{
+	color: blue;
+	font-family: Helvetica, sans-serif;
+	font-weight: 500;
+}
+.badWeather {
+	
+	font-style: italic;
+	font-size: 20px;
+
+}

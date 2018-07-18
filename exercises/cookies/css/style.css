@@ -1,0 +1,15 @@
+body {
+	background-color: #ffe;
+
+}
+span {
+	color: #FFE;
+}
+a {
+	color: #900;
+
+}
+img {
+	border: 10px solid black;
+	border-top-color: white;
+}

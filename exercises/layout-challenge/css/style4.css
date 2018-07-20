@@ -19,21 +19,33 @@
   background-color: #ddd;
 }
 
-section,
-aside {
+section {
   float: left;
 }
 
-section.left {
+.centertop section {
   height: 200px;
   width: 345px;
-  margin-right: 10px;
   margin-bottom: 10px;
 }
 
-section.right {
-  height: 200px;
-  width: 345px;
+section.left {
+  margin-right: 10px;
+}
+
+.middle{
+  margin: 0 auto;
+}
+
+.right {
+  float: right;
+}
+
+
+
+.centerbottom section {
+  height:125px;
+  width: 220px;
   margin-bottom: 10px;
 }
 
